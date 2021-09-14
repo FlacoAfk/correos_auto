@@ -1,5 +1,0 @@
-12/9/10-wefwfewfw-wefwefwef%%wfwefwf-LUNES,MIERCOLES,
-12/12/0-jhiuiug-hggjgjgjh-VIERNES,
-12/10/11-ghghgugyug-jhfug8fyuf%%khuihuhuhuh%%popopopopopopopo-JUEVES,
-5/2/3-defe-efefefef-MARTES,MIERCOLES,
-jhgiougiugoig-jgoigoiugoiugouig-LUNES,JUEVES,SABADO,-lu.tudor.santec.jtimechooser.JTimeChooser[,232,168,120x30,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=,minimumSize=,preferredSize=]-lu.tudor.santec.jtimechooser.JTimeChooser[,402,168,116x30,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=,minimumSize=,preferredSize=]-12
